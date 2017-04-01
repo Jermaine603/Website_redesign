@@ -1,4 +1,4 @@
-	"thumbs" : [
+{ "thumbs" : [
 	{
 	    "title" : "Hardwork, Hardbody.",
 	    "image" : "https://raw.githubusercontent.com/Jermaine603/Website_redesign/master/Redesign-03.png",
@@ -13,4 +13,5 @@
 	    "name"	: "Identity Designs",
 	    "image" : "https://raw.githubusercontent.com/Jermaine603/Website_redesign/master/Redesign-07.png",
 	    "icon" 	: "https://raw.githubusercontent.com/Jermaine603/Website_redesign/master/Redesign-08.png"
-	}];
+	}
+]}
