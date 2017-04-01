@@ -1,16 +1,16 @@
-{ "thumbs" : [
+{"thumbs" : [
 	{
 	    "title" : "Hardwork, Hardbody.",
 	    "image" : "https://raw.githubusercontent.com/Jermaine603/Website_redesign/master/Redesign-03.png",
 	    "icon" 	: "https://raw.githubusercontent.com/Jermaine603/Website_redesign/master/Redesign-06.png"
 	},
 	{
-	    "name" 	: "Affordable Care What?",
+	    "title" 	: "Affordable Care What?",
 	    "image" : "https://raw.githubusercontent.com/Jermaine603/Website_redesign/master/Redesign-04.png",
 	    "icon" 	: "https://raw.githubusercontent.com/Jermaine603/Website_redesign/master/Redesign-05.png"
 	},
 	{
-	    "name"	: "Identity Designs",
+	    "title"	: "Identity Designs",
 	    "image" : "https://raw.githubusercontent.com/Jermaine603/Website_redesign/master/Redesign-07.png",
 	    "icon" 	: "https://raw.githubusercontent.com/Jermaine603/Website_redesign/master/Redesign-08.png"
 	}
