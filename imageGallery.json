@@ -2,7 +2,8 @@
 	{
 	    "title" : "Hardwork, Hardbody.",
 	    "image" : "https://raw.githubusercontent.com/Jermaine603/Website_redesign/master/Redesign-03.png",
-	    "icon" 	: "https://raw.githubusercontent.com/Jermaine603/Website_redesign/master/Redesign-06.png"
+	    "icon"  : "https://raw.githubusercontent.com/Jermaine603/Website_redesign/master/Redesign-06.png",
+	    "key"   : "data-gallery='Hardwork, Hardbody.'"
 	},
 	{
 	    "title" 	: "Affordable Care What?",
