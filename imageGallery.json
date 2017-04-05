@@ -19,13 +19,13 @@
 	},
 	{
 	    "title" : "Identity Designs",
-	    "image" : "https://raw.githubusercontent.com/Jermaine603/Website_redesign/master/Redesign-05.png",
+	    "image" : "https://raw.githubusercontent.com/Jermaine603/Website_redesign/master/Image7.png",
 	    "icon"  : "https://raw.githubusercontent.com/Jermaine603/Website_redesign/master/Redesign-08.png",
 	    "key"   : "identity"
 	},
 	{
 	    "title" : "ZSummit",
-	    "image" : "https://raw.githubusercontent.com/Jermaine603/Website_redesign/master/Redesign-04.png",
+	    "image" : "https://raw.githubusercontent.com/Jermaine603/Website_redesign/master/Image4.png",
 	    "icon"  : "https://raw.githubusercontent.com/Jermaine603/Website_redesign/master/Redesign-05.png",
 	    "key"   : "zsummit"
 	},
@@ -37,13 +37,13 @@
 	},
 	{
 	    "title" : "Atlus Commercial",
-	    "image" : "https://raw.githubusercontent.com/Jermaine603/Website_redesign/master/Redesign-05.png",
+	    "image" : "https://raw.githubusercontent.com/Jermaine603/Website_redesign/master/Image6.png",
 	    "icon"  : "https://raw.githubusercontent.com/Jermaine603/Website_redesign/master/Redesign-08.png",
 	    "key"   : "atlus"
 	},
 	{
 	    "title" : "Extra",
-	    "image" : "https://raw.githubusercontent.com/Jermaine603/Website_redesign/master/Redesign-05.png",
+	    "image" : "https://raw.githubusercontent.com/Jermaine603/Website_redesign/master/Image8.png",
 	    "icon"  : "https://raw.githubusercontent.com/Jermaine603/Website_redesign/master/Redesign-08.png",
 	    "key"   : "extra"
 	}
