@@ -1,20 +1,21 @@
 {"thumbs" : [
 	{
-	    "title" : "Hardwork, Hardbody.",
-	    "image" : "https://raw.githubusercontent.com/Jermaine603/Website_redesign/master/Redesign-03.png",
-	    "icon"  : "https://raw.githubusercontent.com/Jermaine603/Website_redesign/master/Redesign-06.png",
-	    "key"   : "hardwork"
-	},
-	{
 	    "title" : "Affordable Care What?",
 	    "image" : "https://raw.githubusercontent.com/Jermaine603/Website_redesign/master/Redesign-04.png",
 	    "icon"  : "https://raw.githubusercontent.com/Jermaine603/Website_redesign/master/Redesign-05.png",
 	    "key"   : "aca"
 	},
 	{
-	    "title"	: "Identity Designs",
+	    "title" : "Hardwork, Hardbody.",
+	    "image" : "https://raw.githubusercontent.com/Jermaine603/Website_redesign/master/Redesign-03.png",
+	    "icon"  : "https://raw.githubusercontent.com/Jermaine603/Website_redesign/master/Redesign-06.png",
+	    "key"   : "hardwork"
+	},
+	{
+	    "title" : "Identity Designs",
 	    "image" : "https://raw.githubusercontent.com/Jermaine603/Website_redesign/master/Redesign-05.png",
-	    "icon" 	: "https://raw.githubusercontent.com/Jermaine603/Website_redesign/master/Redesign-08.png"
+	    "icon"  : "https://raw.githubusercontent.com/Jermaine603/Website_redesign/master/Redesign-08.png",
+	    "key"   : "identity"
 	},
 	{
 	    "title" : "Experience New Zealand.",
