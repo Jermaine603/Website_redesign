@@ -3,13 +3,15 @@
 	    "title" : "Affordable Care What?",
 	    "image" : "https://raw.githubusercontent.com/Jermaine603/Website_redesign/master/Redesign-04.png",
 	    "icon"  : "https://raw.githubusercontent.com/Jermaine603/Website_redesign/master/Redesign-05.png",
-	    "key"   : "aca"
+	    "key"   : "aca",
+	    "tags" : [ "#branding", "#artdirection", "webdesign", "#printdesign" ]
 	},
 	{
 	    "title" : "Hardwork, Hardbody.",
 	    "image" : "https://raw.githubusercontent.com/Jermaine603/Website_redesign/master/Redesign-03.png",
 	    "icon"  : "https://raw.githubusercontent.com/Jermaine603/Website_redesign/master/Redesign-06.png",
-	    "key"   : "hardwork"
+	    "key"   : "hardwork",
+	    "tags" : [ "#branding", "#artdirection", "webdesign", "#printdesign" ]
 	},
 	{
 	    "title" : "Experience New Zealand.",
