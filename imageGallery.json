@@ -1,52 +1,21 @@
 {"thumbs" : [
 	{
 	    "title" : "Affordable Care What?",
-	    "image" : "https://raw.githubusercontent.com/Jermaine603/Website_redesign/master/Redesign-04.png",
+	    "image" : "https://raw.githubusercontent.com/Jermaine603/Website_redesign/master/PIC.png",
 	    "icon"  : "https://raw.githubusercontent.com/Jermaine603/Website_redesign/master/Redesign-05.png",
 	    "key"   : "aca",
 	    "tags" : [ "#branding", "#artdirection", "webdesign", "#printdesign" ]
 	},
 	{
-	    "title" : "Hardwork, Hardbody.",
-	    "image" : "https://raw.githubusercontent.com/Jermaine603/Website_redesign/master/Redesign-03.png",
-	    "icon"  : "https://raw.githubusercontent.com/Jermaine603/Website_redesign/master/Redesign-06.png",
-	    "key"   : "hardwork",
-	    "tags" : [ "#branding", "#artdirection", "webdesign", "#printdesign" ]
-	},
-	{
-	    "title" : "Experience New Zealand.",
-	    "image" : "https://raw.githubusercontent.com/Jermaine603/Website_redesign/master/Image3.png",
-	    "icon"  : "https://raw.githubusercontent.com/Jermaine603/Website_redesign/master/Redesign-06.png",
-	    "key"   : "nz"
-	},
-	{
-	    "title" : "Identity Designs",
-	    "image" : "https://raw.githubusercontent.com/Jermaine603/Website_redesign/master/Image7.png",
-	    "icon"  : "https://raw.githubusercontent.com/Jermaine603/Website_redesign/master/Redesign-08.png",
-	    "key"   : "identity"
-	},
-	{
 	    "title" : "ZSummit",
-	    "image" : "https://raw.githubusercontent.com/Jermaine603/Website_redesign/master/Image4.png",
+	    "image" : "https://raw.githubusercontent.com/Jermaine603/Website_redesign/master/Zsummit.png",
 	    "icon"  : "https://raw.githubusercontent.com/Jermaine603/Website_redesign/master/Redesign-05.png",
 	    "key"   : "zsummit"
 	},
 	{
-	    "title" : "Pacers",
-	    "image" : "https://raw.githubusercontent.com/Jermaine603/Website_redesign/master/Redesign-04.png",
-	    "icon"  : "https://raw.githubusercontent.com/Jermaine603/Website_redesign/master/Redesign-05.png",
-	    "key"   : "pacers"
-	},
-	{
-	    "title" : "Atlus Commercial",
-	    "image" : "https://raw.githubusercontent.com/Jermaine603/Website_redesign/master/Image6.png",
+	    "title" : "Identity Designs",
+	    "image" : "https://raw.githubusercontent.com/Jermaine603/Website_redesign/master/Identity.png",
 	    "icon"  : "https://raw.githubusercontent.com/Jermaine603/Website_redesign/master/Redesign-08.png",
-	    "key"   : "atlus"
-	},
-	{
-	    "title" : "Extra",
-	    "image" : "https://raw.githubusercontent.com/Jermaine603/Website_redesign/master/Image8.png",
-	    "icon"  : "https://raw.githubusercontent.com/Jermaine603/Website_redesign/master/Redesign-08.png",
-	    "key"   : "extra"
+	    "key"   : "identity"
 	}
 ]}
